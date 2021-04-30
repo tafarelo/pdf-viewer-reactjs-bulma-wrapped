@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/corupta/pdf-viewer-reactjs-bulma-wrapped#readme",
   "dependencies": {
-    "@tafarelo/pdf-viewer-reactjs": "^2.0.9"
+    "pdf-viewer-reactjs": "https://github.com/tafarelo/pdf-viewer-reactjs.git"
   },
   "peerDependencies": {
     "react": ">=16.8.6",
